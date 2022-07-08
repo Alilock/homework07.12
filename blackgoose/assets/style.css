@@ -1,0 +1,22 @@
+* {
+  /* margin: 0; */
+  /* padding: 0; */
+  box-sizing: border-box;
+}
+body {
+  background-color: #faf3e4;
+}
+.main {
+  width: 100%;
+  padding: 0 20%;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.title {
+  font-family: serif;
+}
+.h3 {
+  color: #d16035;
+}
